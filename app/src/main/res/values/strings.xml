@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DogBreeds</string>
+
+    <!-- LoginActivity strings: -->
+    <string name="btn_txt_submit"> Submit! </string>
+    <string name="et_txt_username"> enter username: </string>
+    <string name="et_txt_password"> enter password: </string>
+
+
+</resources>
