@@ -5,9 +5,30 @@
     <item name="et_username" type="id"> User name edit text id</item>
     <item name="et_password" type ="id"> password edit text id</item>
     <item name="btn_submit" type="id"> User name edit text id</item>
+    <item name="tv_username" type="id"> username text view id</item>
+    <item name="tv_password" type="id"> password text view id</item>
+    <item name="remember_me_checkbox" type="id"> remember me check box view id</item>
 
 
-    <!--  Login Activity ids -->
+    <!--  Breeds Activity ids -->
+    <item name="tv_welcome" type="id" > welcome with user name </item>
+    <item name="tv_terrier" type="id" > terrier user name </item>
+    <item name="tv_spaniel" type="id" > spaniel user name </item>
+    <item name="tv_retriever" type="id" >retriever user name </item>
+    <item name="tv_poodle" type="id" >poodle user name </item>
 
+    <item name="iv_terrier" type="id" > terrier image view user name </item>
+    <item name="iv_spaniel" type="id" > spaniel image view user name </item>
+    <item name="iv_retriever" type="id" >retriever imagie view user name </item>
+    <item name="iv_poodle" type="id" >poodle image viewuser name </item>
+
+    <item name="cv_terrier" type="id"> card view terrier id</item>
+    <item name="cv_spaniel" type="id"> card view spaniel id</item>
+    <item name="cv_retriever" type="id"> card view retriever id</item>
+    <item name="cv_poodle" type="id"> card view poodle id</item>
+
+
+    <!-- Dogs Activity ids: -->
+    <item name="tv_dog_breed" type="id" > dog breed name id  </item>
 
 </resources>

@@ -1,10 +1,14 @@
 <resources>
+
     <string name="app_name">DogBreeds</string>
 
     <!-- LoginActivity strings: -->
     <string name="btn_txt_submit"> Submit! </string>
     <string name="et_txt_username"> enter username: </string>
     <string name="et_txt_password"> enter password: </string>
+    <string name="error_pw_txt"> error: pass cant contain username</string>
+    <string name="error_user_txt"> error: user cant be blank</string>
+    <string name="tv_txt_remember_me"> remember me </string>
 
 
 </resources>
